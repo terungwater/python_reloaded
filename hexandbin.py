@@ -16,5 +16,4 @@ def hexandbin():
         else:
             changed_token.append(new_token[i])
             i += 1
-hexandbin()
-print(changed_token)
+        return changed_token
