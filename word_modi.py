@@ -1,5 +1,5 @@
 # Function to convert the some token to upper case, lower case and capitalize the letter of some token
-def word_modi(nw_text=list):
+def word_modi_func(nw_text=list):
     modif_text = []
     
     x= 0 

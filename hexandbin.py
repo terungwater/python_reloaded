@@ -1,6 +1,6 @@
 #creating a function that will work on both hex and bin
 
-def hexandbin(new_token):
+def hexandbin_func(new_token):
     changed_token = []
     i =0 
     while i< len(new_token):
